@@ -63,3 +63,4 @@ To delve deeper into the API's specifics, consult the [Mobula API documentation]
 
 ---
 
+### Crafted with ❤️ using [React](https://reactjs.org/) and powered by [Mobula API](https://developer.mobula.fi/).
