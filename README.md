@@ -2,7 +2,7 @@
 
 A specialized tool tailored for DeFi enthusiasts on Ethereum. Seamlessly track, analyze, and categorize your DeFi ERC20 tokens, ensuring you're always on top of your decentralized finance game.
 
-![DeFi/Mobula Logo](https://i.imgur.com/v4J2tK6.png)
+![DeFi/Mobula Logo](https://i.imgur.com/R07Cxmk.png)
 
 ---
 
